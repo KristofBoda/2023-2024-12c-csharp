@@ -10,6 +10,7 @@ namespace Teszt
     {
         static void Main(string[] args)
         {
+            // Teszt
             Console.WriteLine("Teszt program");
             Console.ReadKey();
         }
